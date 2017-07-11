@@ -1,0 +1,20 @@
+code,name,quality,count
+360G,Publisher's internal reference,,101478
+BE-BCE_KBO,Crossroads Bank for Enterprises ,76.0,1
+CA-CRA_ACR,Canadian Revenue Agency ,50.0,1
+CH-FDJP,,,1
+GB-CHC,Charity Commission,85.0,64202
+GB-COH,Companies House,87.0,10601
+GB-EDU,"Edubase, by the Department of Education",61.0,287
+GB-MPR,Mutuals Public Register,75.0,2
+GB-NIC,The Charity Commission for Northern Ireland,75.0,1710
+GB-REV,HM Revenue and Customs,55.0,90
+GB-SC,Scottish Charity Register,86.0,11569
+GB-UKPRN,UK Register of Learning Providers,50.0,7
+KE-RCO,Registar of Companies,75.0,1
+NO-BRREG,,,1
+Overseas,,,1
+US-EIN,Employer Identification Number - Internal Revenue Service,50.0,7
+XM-DAC,OECD Development Assistance Committee,6.0,4
+ZA-NPO,Nonprofit Organisation Directorate - South African Department of Social Development,55.0,18
+ZA-PBO,SA Revenue Service Tax Exemption Unit ,5.0,7
