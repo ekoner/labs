@@ -1,15 +1,15 @@
 code,name,country_code,country,structure,count,quality
-360G,Publisher's internal reference,,,,101478,
+360G,Publisher's internal reference,,,,8331,
 BE-BCE_KBO,Crossroads Bank for Enterprises ,BE,Belgium,"unincorporated_body, company, charity",1,76.0
 CA-CRA_ACR,Canadian Revenue Agency ,CA,Canada,"company, charity",1,50.0
 CH-FDJP,,,,,1,
-GB-CHC,Charity Commission,GB,UK,charity,64202,85.0
-GB-COH,Companies House,GB,UK,"company/listed_company, company/community_interest_company, company/partnership, company/limited_company, charity, company",10601,87.0
+GB-CHC,Charity Commission,GB,UK,charity,14961,85.0
+GB-COH,Companies House,GB,UK,"company/listed_company, company/community_interest_company, company/partnership, company/limited_company, charity, company",2037,87.0
 GB-EDU,"Edubase, by the Department of Education",GB,UK,"government_agency/public_service, government_agency",287,61.0
 GB-MPR,Mutuals Public Register,GB,UK,"company/mutual, company",2,75.0
-GB-NIC,The Charity Commission for Northern Ireland,GB,UK,charity,1710,75.0
+GB-NIC,The Charity Commission for Northern Ireland,GB,UK,charity,116,75.0
 GB-REV,HM Revenue and Customs,GB,UK,charity,90,55.0
-GB-SC,Scottish Charity Register,GB,UK,charity,11569,86.0
+GB-SC,Scottish Charity Register,GB,UK,charity,877,86.0
 GB-UKPRN,UK Register of Learning Providers,GB,UK,,7,50.0
 KE-RCO,Registar of Companies,KE,Kenya,company,1,75.0
 NO-BRREG,,,,,1,
